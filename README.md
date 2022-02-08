@@ -1,4 +1,4 @@
-# Origamid-1-Portifolio
+# Origamid, Projeto Portifólio
 
 Projeto feito no curso de HTML e CSS para iniciantes da Origamid do professor André Rafael.
 
